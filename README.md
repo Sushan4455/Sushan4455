@@ -1,16 +1,16 @@
-## Hi there 👋
+Welcome to my profile! I'm Sushan Karki, a versatile professional:
 
-<!--
-**Sushan4455/Sushan4455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm a Developer & Creative Problem-Solver 
 
-Here are some ideas to get you started:
+I believe that great development is where logic meets creativity. I don't just build websites; I focus on understanding the core problem, empathizing with the end-user, and crafting intuitive, scalable solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧠 **The Mindset:** Adaptable, detail-oriented, and always looking for the most efficient, out-of-the-box solution.
+* 💻 **The Toolkit:** React , Nodejs , Java, SCSS, and Tailwind CSS.
+* 🚀 **Currently building:** Impactful, modern web experiences for the education and media production sectors.
+* 🤝 **The Approach:** Strong communicator who values collaboration, continuous feedback, and bridging the gap between design and functionality.
+* 🌱 **Always exploring:** New web development frameworks, digital marketing strategies, and the psychology of user experience.
+* 📫 **Let's connect:** karkisush1470@gmail.com
+
+<p align="left"> 
+  <code>React</code> | <code>SCSS</code> | <code>Node.js</code> | <code>Java</code> | <code>Tailwind CSS</code> 
+</p>
